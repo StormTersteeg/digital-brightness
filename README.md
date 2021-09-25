@@ -22,3 +22,6 @@ Click Digital Brightness in your taskbar to use the controls.
 - ⬇ Brightness down
 - ⬅ Switch color preset
 - ➡ Switch color preset
+
+### Attribution
+Icons made by [Pixel perfect](https://icon54.com/) from [www.flaticon.com](https://www.flaticon.com/)
