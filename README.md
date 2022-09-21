@@ -1,7 +1,7 @@
 # digital-brightness
 
-![Alt text](https://projects.dontdalon.com/assets/img/dib-screen.png)<br>
-![Alt text](https://projects.dontdalon.com/assets/img/dib-screen-2.png)<br>
+![Alt text](https://apps.dontdalon.com/assets/img/dib-screen.png)<br>
+![Alt text](https://apps.dontdalon.com/assets/img/dib-screen-2.png)<br>
 
 A simple brightness controlling app, similar to "Flux" and Windows Night Light, compiled using [pyinstaller](https://www.pyinstaller.org/).
 
